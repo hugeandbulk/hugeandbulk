@@ -1,3 +1,3 @@
 # ePay
 by — Prabhat Kumar and Zareen Khan
-Copyright (C) 2022.
+Copyright © 2022 - 23. All rights reserved.
