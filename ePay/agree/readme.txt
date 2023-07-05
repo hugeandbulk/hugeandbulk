@@ -11,4 +11,17 @@ ePay
   ePay over the phone. 
   Thanks/ 5th of July, 2023
     1:28 PM. 
-      Prabhat and Zareen  
+      Prabhat and Zareen
+------------------------
+What exactly in the ePay's v 0.0.1
+👀
+——
+ - about
+ - UPI enabled
+ - who are you
+ - connect with your existing bank a/c
+ - profile
+ - scan and pay. 
+ - history
+👍 by — Prabhat Kumar. 
+
