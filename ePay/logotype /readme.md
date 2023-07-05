@@ -6,3 +6,6 @@ What is the definition of a logotype?
 _noun_. logo·​type ˈlȯ-gə-ˌtīp. ˈlä- 1. : a single piece of type or a single plate faced with a term (such as the name of a newspaper or a trademark)
 
 Examples for logotypes include Visa, Coca Cola or Google. The name can be designed in a picturesque or stylistic font, but at its heart it's still just text. Examples for logomarks (or pictorial marks) are the Apple logo, the Twitter bird or Target's target.
+
+What is logo rules?
+A logo usage guideline is a document you write up for future reference that includes different versions of your logo design and how they are to be used. The logo you choose to tell your business's story will also convey your brand message.
