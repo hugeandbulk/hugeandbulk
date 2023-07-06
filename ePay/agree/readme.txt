@@ -17,6 +17,7 @@ What exactly in the ePay's v 0.0.1
 👀
 ——
  - about
+ - easily transfer the money
  - UPI enabled
  - who are you
  - connect with your existing bank a/c
