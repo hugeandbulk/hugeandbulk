@@ -5,7 +5,9 @@
 
 ePay and it's mechanism, coined by Prabhat Kumar in 2022.
 
-Further, this idea is agreed by Zareen Khan  
+Further, this idea is agreed by Zareen Khan.
+
+<b>Company : ePay Payment System.</b>
 
 by — Prabhat Kumar and Zareen Khan
 
