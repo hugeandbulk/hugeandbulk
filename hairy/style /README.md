@@ -13,3 +13,7 @@ Answer: One big thing he's doing differently: A technique he calls the 80/20 met
 Q: What is an e girl haircut?
 
 Answer: E-girl hairstyles are characterized by soft pastel shades and signature '90s streaks in contrasting hues, oftentimes with '90s-themed accessories as well, like butterfly clips and scrunchies.
+
+Q: What is Jin hairstyle?
+
+Answer: An article on CNN mentions Jin's haircut that he has sharply wolf cut style with long tapered layers & a trailing tail. the wolf cut originated in Korea taking its name from the wild, untamed look the heavy layers create, resembling the fur of its namesake.
