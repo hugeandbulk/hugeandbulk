@@ -5,3 +5,7 @@ Answer: Styling is simple, just towel dry your hair and apply a little texture c
 Q: What is the 7/3 hair style?
 
 Answer: The 7/3 hairstyle is a popular style in the K-pop scene. It features bangs parted either on the side or at the center, best done in a 3:7 ratio, hence the name. The long fringe is necessary for this hairstyle, but so is some level of hair texture and volume.
+
+Q: What is an 80/20 hairstyle?
+
+Answer: One big thing he's doing differently: A technique he calls the 80/20 method, where 80 percent of the cut takes place while the hair is wet, and 20 percent is done after the hair has been dried straight—a sort of twist on the dry haircut.
