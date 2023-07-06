@@ -36,7 +36,6 @@ Updated on November 19, 2021 | Written By Sowmya Tamatam
 email sharing button
 Print
 How To Determine Your Hair Type & Care For It?
-Image: Shutterstock
 
 Do you know which hair type your hair falls under? Or, the different hair types that we humans have? Well, most of us are guilty of being unsure of this.
 
@@ -168,3 +167,4 @@ This kind of hair has really tight and fragile curls. Use oils, shea butter crea
 
 Hair types are based on the way your hair curls. Straight, wavy, curly and coily hair are basic hair types with further subtypes. The more they curl, higher the moisturization your hair needs. Consult your stylist for the best products and hairstyles for your hair type.
 
+https://skinkraft.com/
