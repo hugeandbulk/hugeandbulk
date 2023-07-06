@@ -9,3 +9,7 @@ Answer: The 7/3 hairstyle is a popular style in the K-pop scene. It features ban
 Q: What is an 80/20 hairstyle?
 
 Answer: One big thing he's doing differently: A technique he calls the 80/20 method, where 80 percent of the cut takes place while the hair is wet, and 20 percent is done after the hair has been dried straight—a sort of twist on the dry haircut.
+
+Q: What is an e girl haircut?
+
+Answer: E-girl hairstyles are characterized by soft pastel shades and signature '90s streaks in contrasting hues, oftentimes with '90s-themed accessories as well, like butterfly clips and scrunchies.
