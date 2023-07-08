@@ -1,6 +1,4 @@
 ## Copyright
-
-Skip to main content
 What is Copyright?
 Which types of work are subject to copyright?
 Copyright ownership gives the owner the exclusive right to use the work, with some exceptions. When a person creates an original work, fixed in a tangible medium, he or she automatically owns copyright to the work.
@@ -78,12 +76,3 @@ Your complaint must contain the specific URL of the content you believe infringe
 5. Your signature
 
 Complete complaints require the physical or electronic signature of the copyright owner or a representative authorized to act on their behalf. To satisfy this requirement, you may type your full legal name to act as your signature at the bottom of your complaint.
-
-
-Give feedback about this article
-
-Copyright Help Center
-What is Copyright?
-What is "Fair Use"?
-Frequently Asked Copyright Questions
-Copyright Repeat Infringer Policy
