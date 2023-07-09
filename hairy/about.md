@@ -6,7 +6,7 @@ Company : HairY & Co.
 
 Founder : Zareen Khan 
 
-Co-founderPrabhat Kumar 
+Co-founder: Prabhat Kumar 
 
 Concept Director:
 
