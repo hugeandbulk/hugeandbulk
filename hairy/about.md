@@ -3,8 +3,10 @@
 is for the men and women hair, face and tooth care; regularly and occasionally.
 
 Company : HairY & Co.
-Founder : 
-co-founder:
+
+Founder : Zareen Khan 
+
+Co-founderPrabhat Kumar 
 
 Concept Director:
 
@@ -29,3 +31,9 @@ Centre Manager
  Out — Jauin 
 
 After the approval, clients have to go for next level to care about himself or herself.
+
+Working Hours :
+
+08:00 AM — 08:00 PM
+
+ALL DAYS.
