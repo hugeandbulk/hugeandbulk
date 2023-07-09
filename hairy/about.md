@@ -20,4 +20,7 @@ Centre Manager
  
  — Faith Specialist
 
+ In — Maria
+ Out — Jauin 
+
 After the approval, clients have to go for next level to care about himself or herself.
