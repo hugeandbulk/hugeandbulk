@@ -9,6 +9,8 @@ Further, this idea is agreed by Zareen Khan.
 
 <b>Company : ePay Payment System.</b>
 
+CEO : Prabhat Kumar
+
 by — Prabhat Kumar and Zareen Khan
 
 Copyright © 2022 - 23. All rights reserved.
