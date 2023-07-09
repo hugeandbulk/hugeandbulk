@@ -2,6 +2,10 @@
 
 is for the men and women hair, face and tooth care; regularly and occasionally.
 
+Company : HairY & Co.
+Founder : 
+co-founder:
+
 Concept Director:
 
 Founder Director :
