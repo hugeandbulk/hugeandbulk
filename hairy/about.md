@@ -40,3 +40,14 @@ Working Hours :
 08:00 AM — 08:00 PM
 
 ALL DAYS.
+
+§ Process
+
+1. Welcome
+2. go for approval (cross sign the approval paper)
+3. meet with lead specialist
+4. give some time to work on
+5. take your look, now
+6. bill payment of work
+
+¶ Final.
