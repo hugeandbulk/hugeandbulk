@@ -9,3 +9,10 @@ Front Face / Board
 
 *Deliver You're Sentence*
 -------------------------
+
+Arm
+
+Huge :
+Bulk :
+
+both of have equal responsibility.
