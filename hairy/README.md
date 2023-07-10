@@ -1,4 +1,4 @@
-# HairY
+# HairY & Co.
 > having a lot of hair, yearly with us.
 
 Idea by Zareen Khan, uplifted by Prabhat Kumar. 
