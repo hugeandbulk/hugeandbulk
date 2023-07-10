@@ -28,9 +28,9 @@ Centre Manager
  
  — Faith Specialist
 
- In — Maria
+ In — Maria (Welcome Desk)
  
- Out — Jauin 
+ Out — Jauin (Billing Desk)
 
 After the approval, clients have to go for next level to care about himself or herself.
 
