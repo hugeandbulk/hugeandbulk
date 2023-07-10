@@ -1,4 +1,4 @@
-### HairY,
+8 ### HairY,
 
 is for the men and women hair, face and tooth care; regularly and occasionally.
 
@@ -27,6 +27,7 @@ Centre Manager
  — Care Specialist
  
  — Faith Specialist
+   (Strong Approval)
 
  In — Maria (Welcome Desk)
  
