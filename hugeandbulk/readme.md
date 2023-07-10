@@ -12,7 +12,8 @@ Front Face / Board
 
 Arm
 
-Huge :
-Bulk :
+Huge : Co Founder 
+
+Bulk : Co Founder 
 
 both of have equal responsibility.
