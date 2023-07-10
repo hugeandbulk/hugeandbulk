@@ -27,3 +27,5 @@ Departmental Store, with Zareen Khan.
 Front Face / Board
 (Huge & Bulk, with Zareen Khan)
 > _a you're store_.
+
+👍 Do the exercises.
