@@ -4,7 +4,7 @@
 *Deliver You're Sentence*
 -------------------------
  
-Co Founder ; Prabhat Kumar 
+Co Founder : Prabhat Kumar 
 
 Co Founder : Zareen Khan 
 
@@ -26,5 +26,3 @@ Departmental Store, with Zareen Khan.
 
 Front Face / Board
 (Huge & Bulk, with Zareen Khan)
-
-
