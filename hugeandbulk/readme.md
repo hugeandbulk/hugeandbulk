@@ -2,8 +2,10 @@
 > a company that does huge and bulk selling of products and goods.
 
 सर्ववस्तु भंडार
+Departmental Store, with Zareen Khan.
 
-departmental store, with Zareen Khan.
+Front Face / Board
+(Huge & Bulk, with Zareen Khan)
 
 *Deliver You're Sentence*
 -------------------------
