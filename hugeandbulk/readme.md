@@ -14,7 +14,7 @@ Huge : it's for buy or purchase goods and products on huge quantity for the comp
 
 Bulk : it's to sell goods and products on bulk to the customer according to demand.
 
-Both arm have to maintain the decorum nd demand / supply for the purpose.
+Both arm have to maintain the decorum and demand / supply for the purpose.
 both of have equal responsibility.
 
 By this, we will call, the company is <b>Huge & Bulk</b>. §
