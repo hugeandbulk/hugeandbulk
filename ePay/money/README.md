@@ -23,3 +23,6 @@ The functions of money are that it is a medium of exchange, a unit of account, a
 Medium of exchange:
 
 In economics, a medium of exchange is any item that is widely acceptable in exchange for goods and services. In modern economies, the most commonly used medium of exchange is currency.
+
+### Online Payment
+Online payment is the electronic transfer of funds via the internet, usually between a merchant and a consumer. These payments can be made in various ways, such as via credit and debit cards, banking apps or web pages.
