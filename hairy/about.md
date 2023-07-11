@@ -5,7 +5,7 @@ is for the men and women hair, face and tooth care; regularly and occasionally.
 Age: 0 to what you're.
 
 Company : HairY & Co.
-
+------------------------------
 Founder : Zareen Khan 
 
 Co-founder: Prabhat Kumar 
