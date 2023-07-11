@@ -11,7 +11,7 @@ Co Founder : Zareen Khan
 Investors : Both
 
 Arm
-
+---
 Huge : it's for buy or purchase goods and products on huge quantity for the company purposes.
 
 Bulk : it's to sell goods and products on bulk to the customer according to demand.
@@ -30,6 +30,7 @@ By this, we will call, the company is <b>Huge & Bulk</b>. §
  - Chocolates
  - Toothbrush and toothpaste
  - Creams and lotions
+ - Dabur Products
 
 §
 
