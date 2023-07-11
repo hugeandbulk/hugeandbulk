@@ -11,6 +11,8 @@ Further, this idea is agreed by Zareen Khan.
 
 Founder : Prabhat Kumar
 
+Investors : Both, agreed.
+
 CEO : Prabhat Kumar
 
 COO : Zareen Khan
