@@ -19,3 +19,7 @@ The functions of money are that it is a medium of exchange, a unit of account, a
  - Portable: easily carried and transported.
  - Acceptable: most people must accept the money as payment.
  - Scarce: its supply in circulation must be limited.
+
+Medium of exchange:
+
+In economics, a medium of exchange is any item that is widely acceptable in exchange for goods and services. In modern economies, the most commonly used medium of exchange is currency.
