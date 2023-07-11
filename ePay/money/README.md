@@ -26,3 +26,7 @@ In economics, a medium of exchange is any item that is widely acceptable in exch
 
 ### Online Payment
 Online payment is the electronic transfer of funds via the internet, usually between a merchant and a consumer. These payments can be made in various ways, such as via credit and debit cards, banking apps or web pages.
+
+What do you mean by online payment system?
+
+Online payment allows you to pay money via the internet. Buyers will use this type of payment when they purchase goods online or offline. They can use different types of online payment methods, including debit/credit cards, wire transfers, net banking, and digital wallets.
