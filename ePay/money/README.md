@@ -34,3 +34,32 @@ Online payment allows you to pay money via the internet. Buyers will use this ty
 What are the example of online payment systems?
 
 The online payment systems allow the seller to accept payments and the buyer to send payments over the internet. Examples of online payment companies include PayPal, Alipay, WeChat Pay, Paytm, Google Pay, and Apple Pay.
+
+What are the basics of online payment?
+
+The customer authorises payment via an online form allowing the business to automatically collect the funds when due. The business' bank and the customer's bank communicate and action the payment request when the payment is due, ensuring the correct amount is debited from the customer and credited to the business.
+
+What are the benefits of payment systems?
+
+What are the Advantages and Benefits of an Electronic Payment System?
+
+ - Reduced Transaction Costs.
+ - Secure ePayment Transactions.
+ - Saved Time and Resources.
+
+Who introduced online payment?
+
+The roots of electronic payment can be traced back to 1871, when Western Union debuted the electronic fund transfer (EFT) in the U.S.. It was the first time when people could pay for goods and services without having to be present during the transaction process.
+
+What are the steps in payment process?
+
+Credit card processing in 8 simple steps
+
+1. Making the purchase.
+2. Entering the transaction.
+3. Transmitting the data.
+4. Authorizing the transaction.
+5. Responding to processor and merchant.
+6. Completing the transaction.
+7. Submitting batch closure.
+8. Depositing the funds.
