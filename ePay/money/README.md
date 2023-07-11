@@ -17,5 +17,5 @@ The functions of money are that it is a medium of exchange, a unit of account, a
  - Durable: able to withstand repeated use.
  - Divisible: divisible to small units.
  - Portable: easily carried and transported.
- - Acceptable: most people must accept the money as payment
+ - Acceptable: most people must accept the money as payment.
  - Scarce: its supply in circulation must be limited.
