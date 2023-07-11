@@ -19,6 +19,16 @@ both of have equal responsibility.
 
 By this, we will call, the company is <b>Huge & Bulk</b>. §
 
+§ Dealing What? 
+
+ - Cigarettes
+ - Shoap and Shampoo
+ - Tea and coffee
+ - Nestlé Products
+ - Chocolates
+ - Toothbrush and toothpaste
+ - Creams and lotions
+
 §
 
 सर्ववस्तु भंडार
