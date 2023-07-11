@@ -6,7 +6,9 @@
  
 Co Founder : Prabhat Kumar 
 
-Co Founder : Zareen Khan 
+Co Founder : Zareen Khan
+
+Investors : Both
 
 Arm
 
