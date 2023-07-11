@@ -30,3 +30,7 @@ Online payment is the electronic transfer of funds via the internet, usually bet
 What do you mean by online payment system?
 
 Online payment allows you to pay money via the internet. Buyers will use this type of payment when they purchase goods online or offline. They can use different types of online payment methods, including debit/credit cards, wire transfers, net banking, and digital wallets.
+
+What are the example of online payment systems?
+
+The online payment systems allow the seller to accept payments and the buyer to send payments over the internet. Examples of online payment companies include PayPal, Alipay, WeChat Pay, Paytm, Google Pay, and Apple Pay.
