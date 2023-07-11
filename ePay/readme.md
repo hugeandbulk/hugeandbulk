@@ -17,9 +17,7 @@ CEO : Prabhat Kumar
 
 COO : Zareen Khan
 
-Distinguished, Thinker, Reviewer
-
-Zareen Khan 
+(Distinguished, Thinker, Reviewer: Zareen Khan)
 
 by — Prabhat Kumar and Zareen Khan
 
