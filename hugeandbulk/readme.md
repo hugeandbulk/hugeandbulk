@@ -32,6 +32,8 @@ By this, we will call, the company is <b>Huge & Bulk</b>. §
  - Creams and lotions
  - Dabur Products
 
+¶ Deliver with "Pony".
+
 §
 
 सर्ववस्तु भंडार
