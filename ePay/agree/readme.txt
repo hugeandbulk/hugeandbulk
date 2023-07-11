@@ -28,3 +28,5 @@ What exactly in the ePay's v 0.0.1
 
 >> cuckoo
 A cuckoo is a grey bird which makes an easily recognizable sound consisting of two quick notes.
+
+Copyright : Prabhat Kumar. 2022 — 2023.
