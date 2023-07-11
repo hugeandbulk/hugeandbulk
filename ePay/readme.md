@@ -17,6 +17,8 @@ CEO : Prabhat Kumar
 
 COO : Zareen Khan
 
+Role — A chief operating officer (COO) is the corporate executive who oversees ongoing business operations within the company. The COO reports to the chief executive officer (CEO) and is usually second-in-command within the company.
+
 (Distinguished, Thinker, Reviewer: Zareen Khan)
 
 by — Prabhat Kumar and Zareen Khan
