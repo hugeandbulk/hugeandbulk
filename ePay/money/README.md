@@ -63,3 +63,9 @@ Credit card processing in 8 simple steps
 6. Completing the transaction.
 7. Submitting batch closure.
 8. Depositing the funds.
+
+Who invented UPI?
+
+The National Payments Corporation of India (NPCI), which was founded by the Reserve Bank of India (RBI) and the Indian Banks Association, developed the Unified Payment Interface (UPI).
+
+— by Prabhat Kumar.
