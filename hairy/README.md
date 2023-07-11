@@ -8,7 +8,9 @@ Yeah : 2023, July, 5th.
 ------------------------------
 Founder Director : Zareen Khan
 
-Director : Prabhat Kumar
+Director : Prabhat Kumar 
+
+Investors : Both
 
 ------------------------------
 
@@ -23,5 +25,3 @@ hairyishere@gmail.com
 Google Fonts is a library of 1542 open source font families and APIs for convenient use via CSS and Android. The library also has delightful and beautifully crafted icons for common actions and items. Download them for use in your digital products for Android, iOS, and web.
 
 https://fonts.google.com/
-
-
