@@ -18,7 +18,9 @@
 
  - accord of both.
  - @ format
-  - .sps
+   - .sps
+  
+There are three types of payment that have traditionally been very popular with employers. These payment methods are cash, check and direct deposit. Direct deposit is generally considered to be the most widely used payment option.
 
 ## @ नमस्ते है /
 <!---
