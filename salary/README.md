@@ -1,6 +1,14 @@
 ## Salary
 
-
+ - Employer Registration
+ - About the employer
+ - Head Count
+ - Types of Employee
+ - Audit
+ - Necessary All
+ - Employees db
+ - Provide Salary to them
+ - Payslips
 <!---
 word forms: plural salaries. variable noun. A salary is the money that someone is paid each month by their employer, especially when they are in a profession such as teaching, law, or medicine.
 
