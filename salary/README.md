@@ -7,6 +7,7 @@
  - Audit
  - Necessary All
  - Employees db
+ - Employees Registration
  - Provide Salary to them
  - Payslips
  - Reports
