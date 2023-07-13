@@ -23,4 +23,6 @@ Role — A chief operating officer (COO) is the corporate executive who oversees
 
 by — Prabhat Kumar and Zareen Khan
 
+Above all agreed by both of us. 
+
 Copyright © 2022 - 23. All rights reserved.
