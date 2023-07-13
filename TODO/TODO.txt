@@ -5,4 +5,7 @@ Clinic software for doctors, consultancy services and therapy session with you. 
 For Clinical Pathology.
 1. For medical stores.
 2. databases of molecular biology.
-Primer, Sequence, Probe etc. 
+Primer, Sequence, Probe etc.
+
+O. Human Being Database
+All about you and your family.
