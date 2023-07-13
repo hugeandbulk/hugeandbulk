@@ -1,1 +1,2 @@
-School, Students, Exam and result software. 
+School, Students, Exam and result software.
+Clinic software for doctors, consultancy services and therapy session with you. Add refer, disease, rx, drugs, therapy, pre, symptoms and all. 
