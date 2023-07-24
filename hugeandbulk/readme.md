@@ -37,7 +37,7 @@ By this, we will call, the company is <b>Huge & Bulk</b>. §
 §
 
 सर्ववस्तु भंडार
-Departmental Store, with Zareen Khan.
+Departmental Store, with Zareen <strike>Khan</strike>.
 
 Front Face / Board
 (Huge & Bulk, with Zareen Khan)
