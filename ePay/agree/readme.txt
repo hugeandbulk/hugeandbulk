@@ -67,4 +67,4 @@ Copyright : Prabhat Kumar. 2022 — 2023.
 Yeah (§) :
 
 Device : Cell Phone / Mobile Phone
-O/S :📱: Android and iOS
+O/S :📱: Android bary and iOS bary
