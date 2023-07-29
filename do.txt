@@ -15,4 +15,4 @@ TODO :
  - charter (a written statement of the rights, beliefs and purposes of an organization or a particular group of people) 
 
 TODO :
-Doctors database management system
+Doctors (patients) database management system
