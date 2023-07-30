@@ -7,6 +7,7 @@
 - 👍 We both agreed with the same, for huge & bulk, and hairy & Co. (11 th July 2023).
 - 👍 We both agreed with the same, for ePay (11 th July 2023).
 - 👍 We both agreed with the same, for Hire (30th July 2023).
+- 👍 We both agreed to work for our products. (30th July 2023).
 - ॐ ) श्राप ( ॐ
 
 <!--- 
