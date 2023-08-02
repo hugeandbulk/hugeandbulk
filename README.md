@@ -9,6 +9,7 @@
 - 👍 We both agreed with the same, for Hire (30th July 2023).
 - 👍 We both agreed to work for our products. (30th July 2023).
 - उधार ¦|
+-  👍 India + Project. 2nd August.
 - ॐ ) श्राप ( ॐ
 
 <!--- 
