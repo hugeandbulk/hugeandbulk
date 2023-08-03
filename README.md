@@ -9,7 +9,8 @@
 - 👍 We both agreed with the same, for Hire (30th July 2023).
 - 👍 We both agreed to work for our products. (30th July 2023).
 - उधार ¦|
--  👍 India + Project. 2nd August.
+- 👍 India + Project. 2nd August.
+- 👍 rumor app, 10 पैसा @ rumor.
 - ॐ ) श्राप ( ॐ
 
 <!--- 
