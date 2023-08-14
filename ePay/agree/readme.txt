@@ -1,6 +1,6 @@
 ## (30th July 2023) : 2189 ₹
 ______________________
-ePay
+ePay (Pay electronically)
   — need
   - download 
   - install 
