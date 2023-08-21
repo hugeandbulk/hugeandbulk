@@ -11,7 +11,8 @@
 - उधार ¦|
 - 👍 India + Project. 2nd August.
 - 👍 rumor app, 10 पैसा @ rumor.
-- Parrot app. 
+- Parrot app.
+- Theorem app. 
 - ॐ ) श्राप ( ॐ
 
 <!--- 
