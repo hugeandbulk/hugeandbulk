@@ -23,9 +23,10 @@ What exactly in the ePay's v 0.0.1
  - UPI enabled
  - who are you
  - connect with your existing bank a/c
- - profile
- - scan and pay. 
- - history
+ - profile 
+ - scan and pay 
+ - graph (expense) 
+ - history 
 👍 by — Prabhat Kumar.
 
 >> cuckoo
@@ -56,9 +57,10 @@ What exactly in the ePay's v 1.0.0
  - connect with your existing bank a/c
  - connect with the multiple bank a/c
  - wallet for n no. of a/c
- - profile
- - scan and pay. 
- - history
+ - profile 
+ - scan and pay 
+ - graph (expense) 
+ - history 
 👍 by — Prabhat Kumar.
 
 >> Parrot
