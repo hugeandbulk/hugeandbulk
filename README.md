@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @hugeandbulk
+- 👋 Hi, all. Due to zareen khan activity the all projects are in difficulty and facing several problems. She misguided and found guilty in committing crime. So, she have to pay all to us.
+
+--------------------------
+
+
+- - 👋 Hi, I’m @hugeandbulk
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... ॐ ) श्राप ( ॐ
