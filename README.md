@@ -1,4 +1,6 @@
+## NEWS
 - 👋 Hi, all. Due to zareen khan activity the all projects are in difficulty and facing several problems. She misguided and found guilty in committing crime. So, she have to pay all to us.
+- 👋 Hi, ALL. she is not stopping her altitude and behavior. Again and again committing crime, continuesly. I am saying, she have to understand and stop being so.
 
 --------------------------
 
